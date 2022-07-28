@@ -31,6 +31,8 @@ I also add the source isntruction of the catkin work space to the .bashrc file
 
 
 ### Results:
+![](images/sc22.png)
+
 
 
 ### Resources
@@ -64,4 +66,6 @@ I also add the source isntruction of the catkin work space to the .bashrc file
 ```rosrun rosserial_python serial_node.py _port:=/dev/ttyUSB0 _baud:=115200```
 
 ### Results:
-check the video alos..
+check the video also..
+![](images/pic1.jpg)
+
